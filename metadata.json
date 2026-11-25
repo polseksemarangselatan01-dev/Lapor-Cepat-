@@ -1,0 +1,6 @@
+{
+  "name": "SiapLapor WA",
+  "description": "Aplikasi formulir laporan kegiatan lapangan siap kirim WhatsApp lengkap dengan unggah dokumentasi foto dan pratinjau langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
